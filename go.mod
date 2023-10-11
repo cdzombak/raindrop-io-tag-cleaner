@@ -11,5 +11,5 @@ require (
 
 require (
 	github.com/pkg/errors v0.9.1 // indirect
-	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110 // indirect
+	golang.org/x/net v0.17.0 // indirect
 )
